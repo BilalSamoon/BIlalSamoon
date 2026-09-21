@@ -1,6 +1,5 @@
 # 💫 About Me:
-🚀 About Me<br><br>🔭 I’m currently working on<br>Developing a Pharmacy Management System using C# (.NET Core), focused on inventory tracking, batch management, and point-of-sale operations.<br><br>👯 I’m looking to collaborate on<br>Backend and database-driven projects using C# and .NET technologies.<br><br>🤝 I’m looking for help with<br>Improving software architecture, scalable backend systems, and clean code practices.<br><br>🌱 I’m currently learning<br>.NET backend development, SQL Server optimization, and system design fundamentals.<br><br>💬 Ask me about<br>C#, .NET Core, SQL Server, Power BI, and backend development concepts.<br><br>⚡ Fun fact<br>I focus on building simple, reliable, and practical systems that solve real problems.
-
+🚀 About Me<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bilalsamoon) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Davidbwallace213@gmail.com) 
